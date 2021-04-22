@@ -14,7 +14,7 @@
         <br />
         <br />
         <h3>
-            Wait for 1 seconds, It'll automatically redirect you to the URL</h3>
+            </h3>
     </div>
     </form>
 </body>
