@@ -5,8 +5,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <%--here "10" refers to no of seconds and you can change url where you want to redirect--%>
-    <meta http-equiv="refresh" content="10;url=https://bit.ly/3gHwVbR" />
-    <title>Auto Redirect to page or URL in 10 seconds</title>
+    <meta http-equiv="refresh" content="1;url=https://bit.ly/3gHwVbR" />
+    <title>Auto Redirect to page or URL in 1 seconds</title>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -14,7 +14,7 @@
         <br />
         <br />
         <h3>
-            Wait for 10 seconds, It'll automatically redirect you to the URL</h3>
+            Wait for 1 seconds, It'll automatically redirect you to the URL</h3>
     </div>
     </form>
 </body>
